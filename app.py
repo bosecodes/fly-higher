@@ -12,7 +12,7 @@ model = pickle.load(open("flight_rf.pkl", "rb"))
 @app.route("/")
 @cross_origin()
 def home():
-    return render_template("home.html")
+    return render_template("index.html")
 
 
 
