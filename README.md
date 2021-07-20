@@ -1,4 +1,4 @@
-# fly-higher
+# Fly Higher
 
 ![flights1](https://user-images.githubusercontent.com/39362431/126262393-8d631f0b-616a-4ead-86d1-865e84b5e7c0.JPG)
 
